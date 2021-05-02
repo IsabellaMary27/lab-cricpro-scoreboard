@@ -25,29 +25,32 @@ h4 {
 
 #tabel1 {
 
-	padding-top: 5px;
-	padding-bottom: 5px;
+	padding-top: 10px;
+	padding-bottom: 10px;
 
 	background-color: #f05136;
 	color: white;
+	
 
 
 }
 
 #tabel2 {
-	padding-top: 5px;
-	padding-bottom: 5px;
+	padding-top: 10px;
+	padding-bottom: 10px;
 
 	background-color: lightgrey;
 	color: black;
+	
 }
 
 #tabel3 {
-	padding-top: 5px;
-	padding-bottom: 5px;
+	padding-top: 10px;
+	padding-bottom: 10px;
 
 	background-color: white;
 	color: black;
+	
 }
 
 /* change the font family and spacing as per your project font */
